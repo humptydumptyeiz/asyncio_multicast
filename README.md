@@ -6,6 +6,7 @@ Usage:
     import asyncio
     
     from asyncio_multicast.multicast import listen_multicast
+
     # The custom protocol written by the user
     from project import MulticastProtocol
     
